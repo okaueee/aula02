@@ -1,0 +1,27 @@
+h1{
+    color:rgb(0, 255, 13)
+  }
+ 
+  .cor
+  {
+    color:black
+  }
+ 
+  .cores
+  {
+    color:blue
+  }
+  p
+  {
+    background-color: #ff000f;
+    color:aliceblue;
+    font-size:25px;
+  }
+  img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border: 10px solid black;
+    border-radius: 15px;
+
+  }
